@@ -1,4 +1,4 @@
-# Python-Homeworks
+# Python-Homeworks\n
 Ödev-1: İstiklal Marşın'dan istenilen kıtayı çağırma
 Ödev-2: Müşteri verilerini listeye kaydetme
 Ödev-3: Girilen sayının faktoriyeline hesaplayan fonksiyon yazma
